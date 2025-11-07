@@ -502,6 +502,7 @@ Status: Experimental / Educational
 ---
 
 🔗 For the English academic introduction, see ACADEMIC_INTRO_EN.md
+🔗 For the Japanese academic introduction, see ACADEMIC_INTRO_JP.md
 > **Document Version:** 1.0  
 > **Author:** Hanamaruki  
 > **License:** Creative Commons BY 4.0 / MIT (for implementation)
