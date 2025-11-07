@@ -150,6 +150,24 @@ AI-Kyōji-Sekkei templates, SoE OS kernel modules, and related documents.
      **Hanamaruki Official**  
      ✉️ Contact via GitHub Issues or official Brain channel.Uploading AI-Kyōji-Sekkei Commercial Supplementary License.md…]()
 
+---
+## 🔬 Research Access Statement / 研究アクセス歓迎ステートメント
+
+This repository is open for **academic, educational, and research exploration**.  
+Researchers, educators, and developers are **welcome to analyze, reference, and cite** this framework  
+for studies related to **AI instructional design, human-AI co-learning, and prompt architecture**.
+
+All uses should comply with the repository’s [LICENSE](./LICENSE.md) and [SAFETY_POLICY.md].  
+Commercial reuse, redistribution, or derivative training are not permitted without prior consent.
+
+---
+
+本リポジトリは、**学術・教育・研究目的での解析および引用を歓迎**します。  
+AI教示設計、人間中心AI、指示構造研究などに関する研究利用を目的とする場合、  
+自由に参照・引用・検証を行っていただけます。  
+
+利用にあたっては、[LICENSE](./LICENSE.md) および [SAFETY_POLICY.md](./SAFETY_POLICY.md) の内容に従ってください。  
+商業利用・再配布・モデル再訓練を目的とする場合は、事前に開発者（Hanamaruki）までご連絡ください。
 
 ---
 
