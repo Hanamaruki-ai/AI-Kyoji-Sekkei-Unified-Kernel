@@ -499,7 +499,9 @@ Status: Experimental / Educational
 
 ― Hanamaruki（2025）oading 付録.md…]()
 
+---
 
+🔗 For the English academic introduction, see ACADEMIC_INTRO_EN.md
 > **Document Version:** 1.0  
 > **Author:** Hanamaruki  
 > **License:** Creative Commons BY 4.0 / MIT (for implementation)
