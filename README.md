@@ -529,6 +529,8 @@ Status: Experimental / Educational
 
 note.comの記事
 
+https://note.com/cheeky_daisy8872/magazines
+
 各種マガジン第一話
 
 01 AI活用 https://note.com/cheeky_daisy8872/n/ndce27f9e6afa
