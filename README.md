@@ -112,6 +112,9 @@ AIが**自己教示（Self-Teaching）**および**相互教示（Mutual-Teachin
 AI-Kyōji-Sekkeiは、トヨタ生産方式（TPS）やKaizen思想を基盤に、  
 **知的ティーチング・サイクル**として進化した次世代設計体系です。  
 
+note.comの記事での紹介と運用。
+https://note.com/cheeky_daisy8872/n/nc76c7cdc6398
+
 ---
 
 ## 🧬 理論体系（AI-Kyōji-Sekkei Theory Overview）  
