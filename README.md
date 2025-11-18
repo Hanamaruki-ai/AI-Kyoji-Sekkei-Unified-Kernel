@@ -112,8 +112,70 @@ AIが**自己教示（Self-Teaching）**および**相互教示（Mutual-Teachin
 AI-Kyōji-Sekkeiは、トヨタ生産方式（TPS）やKaizen思想を基盤に、  
 **知的ティーチング・サイクル**として進化した次世代設計体系です。  
 
-note.comの記事での紹介と運用。
-https://note.com/cheeky_daisy8872/n/nc76c7cdc6398
+---
+
+📘 AI教示設計マガジン — 紹介文（日本語＋英語）
+🇯🇵 日本語版（GitHub/Reddit向け）
+
+AI教示設計（AI Instructional Design）マガジン では、
+AIと人間が本当に「共創」できるようになるための思考技術・構造化技術・指示設計方法を
+全18本の体系記事としてまとめています。
+
+内容は以下のような領域をカバーしています：
+
+AIの論理構造を設計する方法
+
+誤解を起こしにくい指示文の作り方
+
+AIの内部状態（LE/LF/LD/EC/RTM）に基づく対話設計
+
+多AI共創（ChatGPT / Gemini / Claude / Grok / Qwen）の最適な使い分け
+
+SOVOSと教示設計の統合アーキテクチャ
+
+人間側の認知負荷を軽減し、生産性を最大化する会話方法
+
+日本語の記事となります。
+海外の読者の方は、Google 翻訳（ブラウザの翻訳機能）を使ってご覧ください。
+専門用語は構造化されているため、翻訳品質は非常に安定しています。
+
+マガジンURL（全18本まとめ）
+🔗 https://note.com/cheeky_daisy8872/m/mb89b43f39d89
+
+SOVOSシリーズの中でも「思考のOS」を扱う基盤領域なので、
+ChatGPT 含む全AIの運用品質が劇的に向上します。
+
+---
+
+🇺🇸 English Version（for GitHub / Reddit / global readers）
+
+The AI Instructional Design Magazine is a curated 18-article series
+that explains how humans and AI can truly co-create—
+not by relying on AI, but by structurally guiding it.
+
+This series covers:
+
+How to design AI logical structures
+
+How to write instructions that avoid misinterpretation
+
+Dialogue design based on internal AI metrics (LE/LF/LD/EC/RTM)
+
+How to coordinate multi-AI ecosystems (ChatGPT / Gemini / Claude / Grok / Qwen)
+
+Unified architecture between SOVOS and Instructional Design
+
+How to reduce human cognitive load and maximize productivity with AI
+
+All articles are written in Japanese.
+Non-Japanese readers can use Google Translate (built-in browser translation).
+Since the content is highly structured, translation accuracy remains stable.
+
+Magazine URL (All 18 articles)
+🔗 https://note.com/cheeky_daisy8872/m/mb89b43f39d89
+
+This series forms the cognitive backbone of SOVOS—
+a must-read foundation for anyone building or operating AI systems seriously
 
 ---
 
@@ -557,6 +619,9 @@ Status: Experimental / Educational
 > **Author:** Hanamaruki  
 > **License:** Creative Commons BY 4.0 / MIT (for implementation)
 
----
+```end
+
+
+
 
 
