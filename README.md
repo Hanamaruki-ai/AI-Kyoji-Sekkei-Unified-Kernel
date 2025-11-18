@@ -559,23 +559,4 @@ Status: Experimental / Educational
 
 ---
 
-note.comの記事
 
-https://note.com/cheeky_daisy8872/magazines
-
-各種マガジン第一話
-
-01 AI活用 https://note.com/cheeky_daisy8872/n/ndce27f9e6afa
-
-① AI活用 裏話 　https://note.com/cheeky_daisy8872/n/nb87f57b5e2cf
-
-SOV活用体系01 https://note.com/cheeky_daisy8872/n/n2331572f783e
-
-閑話01　https://note.com/cheeky_daisy8872/n/n0c36e9be9e4f
-
-第1弾　https://note.com/cheeky_daisy8872/n/n25850583f97d
-有料教材記事記事
-
-AI運用01　https://note.com/cheeky_daisy8872/n/ndd5973d2f774
-
-運用01　https://note.com/cheeky_daisy8872/n/n1f57406ff4cd
